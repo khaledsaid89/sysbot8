@@ -1,1 +1,2 @@
-# sysbot8
+# Probot ✨
+Epic Discord Bot
